@@ -4,6 +4,7 @@
     --primary:#fea928;
     --secondary: #ed8900;
     --sm: 2rem;
+
 }
 
 /* container: {
@@ -16,3 +17,10 @@
         "2xl": "6rem",
     }
 } */
+
+.textPrimary{
+    color: var(--primary)
+}
+.textSm{
+    font-size: 2rem;
+}
